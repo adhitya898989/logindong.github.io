@@ -108,4 +108,6 @@ body .form-login .btn-google{
 
 body{
     background-image: url("https://images.pexels.com/photos/1451567/pexels-photo-1451567.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
